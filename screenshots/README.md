@@ -16,5 +16,13 @@
  
 ### Internship Tracker
 ![Internship](screenshots/internship.jpg)
+
  
+### Projects
+![Projects](screenshots/projects.png)
+
+### Profile
+![Profile](screenshots/profile.png)
+ 
+
 

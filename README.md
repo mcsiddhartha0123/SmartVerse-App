@@ -1,9 +1,9 @@
 # SmartVerse-App
 Student productivity mobile app built using React Native and Firebase
  
-# SmartVerse App
+ SmartVerse is a student productivity mobile application designed to help students manage academics, internships, projects, and personal productivity in one place.
+ 
 
-SmartVerse is a student productivity mobile application built using React Native and Firebase.
 
 ## Features
 
